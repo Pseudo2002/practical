@@ -1,2 +1,2 @@
 # practical
-hello
+Greeting Im new to Github
